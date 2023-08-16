@@ -1,7 +1,7 @@
 ## Olá! Seja bem-vindo(a). Eu sou a Mayara Silva
 
 - 🔭 Atualmente em busca da minha primeira oportunidade
-- 🌱 Estudando Java
+- 🌱 Estudando Java e ADS
 - 😄 Pronouns: Ela/Dela
 
 <picture>
