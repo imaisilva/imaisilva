@@ -1,4 +1,4 @@
-## Olá seja bem-vindo(a). Eu sou Mayara Silva
+## Olá! Seja bem-vindo(a). Eu sou a Mayara Silva
 
 - 🔭 Atualmente em busca da minha primeira oportunidade
 - 🌱 Estudando Java
