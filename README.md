@@ -1,8 +1,7 @@
-## Olá! Seja bem-vindo(a)
-
-- 🔭 Atualmente em busca da minha primeira oportunidade.
-- 
-- 🌱 Estudando Análise e Desenvolvimento De Sistemas.
+## Olá Seja bem-vindo(a)
+ 💻 Análise e Desenvolvimento De Sistemas
+ 
+ ☕ Back-end Java
 
 <picture>
   <source
