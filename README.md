@@ -1,30 +1,38 @@
-## Olá Seja bem-vindo(a)
- 💻 Análise e Desenvolvimento De Sistemas
- 
- ☕ Back-end Java
+##  Olá seja bem-vindo(a) Eu sou a Mayara Silva
+ [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_silvamai1?igsh=cWtpMXY5czUxY2ty&utm_source=qr)
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=imaisilva&show_icons=true&theme=tokyonight"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayara-silva-maidev/)
 
-##
 
-<div style="display: inline_block"><br>
-<img align="center" height="30" width="40" src="https://skillicons.dev/icons?i=java&theme=dark">
-<img align="center" height="30" width="40" src="https://skillicons.dev/icons?i=spring&theme=dark">
-<img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+### Linguagens de Programação
 
-##
+![Java](https://img.shields.io/badge/java-%23D3D3D3.svg?style=for-the-badge&logo=openjdk&logoColor=orange)
 
-<div>
-  <a href="https://www.linkedin.com/in/mayara-silva-maidev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+### Bibliotecas e Frameworks
+
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=black)
+
+### Banco de Dados
+
+![MySQL](https://img.shields.io/badge/MySQL-ADD8E6?style=for-the-badge&logo=mysql&logoColor=black)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FFF?style=for-the-badge&logo=postgresql)
+
+
+### Ferramentas
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
+
+### Sistema Operacional
+![Windows](https://img.shields.io/badge/Windows-FFF?style=for-the-badge&logo=windows&logoColor=2CA5E0)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=IMAISILVA&repo=workshop-springboot3-jpa&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/imaisilva/workshop-springboot3-jpa)
+
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IMAISILVA&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+
