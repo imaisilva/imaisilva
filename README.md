@@ -1,4 +1,6 @@
 ##  Olá seja bem-vindo(a) Eu sou a Mayara Silva
+[![DIO](https://img.shields.io/badge/PERFIL_DIO-blue?style=for-the-badge)](https://www.dio.me/users/alohasp)
+
  [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_silvamai1?igsh=cWtpMXY5czUxY2ty&utm_source=qr)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayara-silva-maidev/)
